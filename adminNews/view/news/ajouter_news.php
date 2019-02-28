@@ -7,7 +7,7 @@
         language_url : 'fr_FR.js',
         plugins: [
             'advlist autolink lists link image charmap print preview anchor textcolor',
-            'insertdatetime media table contextmenu paste help wordcount'
+            'insertdatetime media table paste help wordcount'
           ],
         image_list: [
             <?php 
