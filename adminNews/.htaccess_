@@ -1,0 +1,4 @@
+AuthName "Zone protegee"
+AuthType Basic
+AuthUserFile "/home/weldcomepa/www/admin/.htpasswd"
+Require valid-user

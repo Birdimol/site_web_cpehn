@@ -1,0 +1,10 @@
+
+      .bloc-bleu:hover{
+          background-color:#09AFDF;
+          border-color:black;
+          cursor:pointer;
+      }
+
+      .bloc-bleu:hover .text-default{
+          color:white;
+      }

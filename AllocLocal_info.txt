@@ -1,0 +1,1 @@
+<head> <meta http-equiv='content-type' content='text/html; charset=iso-8859-1' /> </head><body><table border=0><tr><td><h2>Formation DAO/CAO</h2></td><td align='center' style='width:80px'> <h3>>></h3> </td><td> <h3>Salle 5</h3> </td></tr><tr><td><h2>Formation télématique</h2></td><td align='center'> <h3>>></h3> </td><td> <h3>Salle 6</h3> </td></tr></table></body>

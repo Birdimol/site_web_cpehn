@@ -1,0 +1,1 @@
+<?php $Ntexte1 = "Accueil --> A l'étage, à droite, au fond du couloir.                                 ";?> 
