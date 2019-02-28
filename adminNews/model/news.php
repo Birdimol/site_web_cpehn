@@ -1,8 +1,7 @@
 <?php
     include_once("databaseManager.php");
 
-    class News {
-        
+    class News {        
         public function __construct($info){
             if(is_array($info)){
                 $this->setFromArray($info);
